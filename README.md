@@ -15,3 +15,15 @@ Segue o link: https://www.canva.com/design/DAGfZh7ejBw/alsEcveMfq0Embdn99xlFw/ed
 ![image](https://github.com/user-attachments/assets/694755ee-5b8b-4149-9a65-09511c24f8e6)
 ![image](https://github.com/user-attachments/assets/ea025afb-00f2-4737-85b4-b6a6117abe9d)
 
+## Atividade Panela_de_Pressão
+![image](https://github.com/user-attachments/assets/aec4c496-a82a-48c1-96a4-83ce084a9ce7)
+
+## Atividade Sorvete.
+![image](https://github.com/user-attachments/assets/052ece74-dcd6-4395-b3c5-a4822bab4eee)
+
+
+##  Atividade Graf-k_Sanalias_computador.
+![image](https://github.com/user-attachments/assets/65498d05-daf5-4a1f-bc05-48547722cf55)
+
+## Atividade Graf_k_Computador.
+![image](https://github.com/user-attachments/assets/5a0255ea-ba55-435c-ad69-d3c934f5e736)
