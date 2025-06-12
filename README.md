@@ -28,5 +28,8 @@ Segue o link: https://www.canva.com/design/DAGfZh7ejBw/alsEcveMfq0Embdn99xlFw/ed
 ## Atividade Graf_k_Computador.
 ![image](https://github.com/user-attachments/assets/5a0255ea-ba55-435c-ad69-d3c934f5e736)
 
-## Atividade PowerApps
+## Atividade PowerApps Cadastro de CLiente, Fornecedor e Ordem de Serviço
 ![image](https://github.com/user-attachments/assets/f1842b7e-3afa-4080-9f95-0846a60690d9)
+
+## Atividade PowerApps Gestão de Frota
+![image](https://github.com/user-attachments/assets/cc76a905-9f28-4f8f-9399-788086058cb2)
