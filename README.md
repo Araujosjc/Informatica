@@ -32,4 +32,8 @@ Segue o link: https://www.canva.com/design/DAGfZh7ejBw/alsEcveMfq0Embdn99xlFw/ed
 ![image](https://github.com/user-attachments/assets/f1842b7e-3afa-4080-9f95-0846a60690d9)
 
 ## Atividade PowerApps Gestão de Frota
-![image](https://github.com/user-attachments/assets/cc76a905-9f28-4f8f-9399-788086058cb2)
+![image](https://github.com/user-attachments/assets/cc76a905-9f28-4f8f-9399-788086058cb2) 
+
+## Prova Informática
+https://github.com/user-attachments/assets/4aa21596-85b2-4010-af88-d07f1a2c5a84
+
