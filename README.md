@@ -38,5 +38,6 @@ Segue o link: https://www.canva.com/design/DAGfZh7ejBw/alsEcveMfq0Embdn99xlFw/ed
 https://github.com/user-attachments/assets/4aa21596-85b2-4010-af88-d07f1a2c5a84
 
 ## Prova Informatica
+Video ficou grande para colocar aqui, colocarei na parte de arquivos.
 ![image](https://github.com/user-attachments/assets/685f0cdd-8309-4934-b089-9524b35387b4)
 
